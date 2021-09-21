@@ -48,5 +48,17 @@ class Lab11
 } 
 
 
-
+OUTPUT
+enter n value
+3
+the recursive fibbonocci serice is
+0
+1
+1
+3th value of serice is1
+the non recursive fibonocci serice is
+0
+1
+1
+3th value of serice is0
     
